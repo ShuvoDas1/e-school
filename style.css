@@ -30,11 +30,10 @@
     color: white;
 }
 #books img{
+    width: 80px;
     margin-bottom: 20px;
 }
-#books img{
-    width: 80px;
-}
+
 #books .card{
     padding-top: 20px;
     border: none;
